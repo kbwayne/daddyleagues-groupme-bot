@@ -5,7 +5,7 @@
 include('./httpful.phar');
 include('./functions.php');
 
-// this is found at https://frozen-thicket-87381.herokuapp.com/adminBot.php
+// this is found at http://dev.groupme.com/bots
 $bot_token = "admin bot token";
 
 // adds admin commands 
